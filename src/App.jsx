@@ -1,9 +1,12 @@
 import './App.css'
+import Header from './Header'
+import Hero from './Hero'
 
 function App() {
   return (
-    <div className='bg-black'>
-      hello world
+    <div>
+       <Header />
+       <Hero></Hero>
     </div>
   )
 }
