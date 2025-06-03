@@ -1,8 +1,8 @@
 const Header = () =>{
     return(
-        <div className="flex justify-around items-center mb-20">
+        <div className="flex justify-around items-center mb-20 mt-6">
               <div>
-                <img className="w-[200px]" src="..\img\logo.jpg" alt="Logo-img" />
+                <img className="w-[200px]" src="https://in.puma.com/_next/static/assets/icons/puma-logo.svg#icon" alt="Logo-img" />
               </div>
               <div className="flex">
                 <ul className="flex font-bold text-2xl">
